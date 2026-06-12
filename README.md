@@ -52,8 +52,8 @@ If you use this tool in your research, please cite the repository and note the m
 
 ## Development note
 
-This script was developed with the assistance of Claude (Anthropic, claude.ai), an AI language model, which contributed to code architecture, implementation, and documentation. All code was reviewed, tested, and validated by [Your Name].
+This script was developed with the assistance of Claude (Anthropic, Opus 4.6), an AI language model, which contributed to code architecture, implementation, and documentation. All code was reviewed, tested, and validated by Laura Jastrzab.
 
 ## Licence
 
-[Choose a licence — MIT, GPL, CC-BY, etc.]
+MIT License. 
