@@ -44,7 +44,7 @@ blurFacesInFolder('/path/to/stimuli', '/path/to/output')
 
 Blurred videos are saved as `.mp4` files in a `_blurred` output folder alongside your source folder.
 
-See [`USER_GUIDE.md`](USER_GUIDE.md) for detailed setup instructions, a walkthrough of the annotation workflow, parameter tuning guidance, and troubleshooting.
+See [`User-Guide.md`](User-Guide.md) for detailed setup instructions, a walkthrough of the annotation workflow, parameter tuning guidance, and troubleshooting.
 
 ## Citation
 
